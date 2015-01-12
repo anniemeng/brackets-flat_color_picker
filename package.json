@@ -1,0 +1,12 @@
+{
+    "name": "brackets-flat_color_picker",
+    "title": "Flat Color Picker",
+    "description": "Choose flat colors within Brackets",
+    "homepage": "",
+    "version": "0.0.0",
+    "author": "Annie Meng (https://github.com/anniemeng)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
